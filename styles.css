@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh
+}
+
+canvas {
+  /* margin: 10px; */
+  height: 100%;
+  border: 1px dashed gray;
+}
